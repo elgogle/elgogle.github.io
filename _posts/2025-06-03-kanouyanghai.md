@@ -12,10 +12,10 @@ title: 看欧阳海大坝
 ![大坝说明](/images/kanouyanghai/IMG_20250601_161422.jpg)
 
 下游宽阔处
-<video src="/images/kanouyanghai/VID_20250601_164233.mp4" controls="controls" muted style="width: -moz-available; width: -webkit-fill-available"></video>
+<video src="/images/kanouyanghai/VID_20250601_164233.mp4" controls muted style="width: -moz-available; width: -webkit-fill-available"></video>
 
 途中见到一个三段瀑布
-<video src="/images/kanouyanghai/VID_20250601_170213.mp4" controls="controls" muted style="width: -moz-available; width: -webkit-fill-available"></video>
+<video src="/images/kanouyanghai/VID_20250601_170213.mp4" controls muted style="width: -moz-available; width: -webkit-fill-available"></video>
 
 回程去看了一下白沙古街
-<video src="/images/kanouyanghai/VID_20250601_172009.mp4" controls="controls" muted style="width: -moz-available; width: -webkit-fill-available"></video>
+<video src="/images/kanouyanghai/VID_20250601_172009.mp4" controls muted style="width: -moz-available; width: -webkit-fill-available"></video>
